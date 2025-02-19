@@ -16,6 +16,11 @@ A user-friendly application to convert various image formats with support for da
 1. **Download the executable (.exe) file**: [Download here]([URL](https://github.com/JethiYippee/image_converter/releases/tag/Release))
 2. **Run the executable**: Double-click the downloaded `.exe` file to launch the application.
 
+#### Note on Security Warnings 🚨
+When running the executable file, you might encounter a security warning from Microsoft Defender SmartScreen because it is from an unknown publisher. If you trust the file (since it was downloaded from this repository), you can click "Run anyway" to bypass the warning.
+
+Rest assured, the executable file is safe and does not harm your computer.
+
 ### For Source Code
 #### Prerequisites
 - Python 3.x
