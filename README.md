@@ -47,3 +47,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgments 🙏
 - Special thanks to the creators of the `Pillow` library.
+- Copilot AI did pretty much everything so big thanks to Microsoft Copilot
